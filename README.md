@@ -59,7 +59,7 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 
 ***4.	Visualization:***
  
- •	Plots the modulating signal, carrier signal, FM modulated signal, and demodulated signal for analysis.
+ •	Plots the modulating signal, carrier signal, and FM modulated signal for analysis.
 
 
 
