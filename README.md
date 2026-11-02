@@ -122,6 +122,9 @@ plot(t,eFM);
 
 **CALCULATION:**
 
+<img width="2376" height="1110" alt="IMG_20261102_205241_edit_141679918308589 jpg" src="https://github.com/user-attachments/assets/f0d9e284-6832-4c69-8b4e-7057d153f580" />
+
+
 <img width="2348" height="3490" alt="IMG_20261102_203626_edit_141410712048734 jpg" src="https://github.com/user-attachments/assets/c376d238-8f74-4a6b-98db-0f17b28e6d68" />
 
 
